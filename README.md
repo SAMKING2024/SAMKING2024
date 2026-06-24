@@ -78,6 +78,3 @@ This repository documents my hands-on deep dives into offensive engineering and 
 
 > “I don't just build systems; I ensure they are scalable, efficient, automated, and secure from the ground up. This repository tracks my journey from writing code to securing enterprise-level environments.”
 
----
-
-Now that they are separated into two distinct repos, would you like me to help you write the specific code comments or individual README files for either of those specific repositories?
